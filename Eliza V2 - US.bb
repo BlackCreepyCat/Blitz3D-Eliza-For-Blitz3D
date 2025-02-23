@@ -7,7 +7,7 @@ Flip
 Locate 0, 0
 Text 200, 0, "Eliza", True
 Text 200, 12, "Original by Creative Computing", True 
-Text 200, 24, "BB remake by WolRon", True
+Text 200, 24, "BB remake by Filax", True
 ;Initializing
 Dim  Sarray(38), rarray(38), narray(38)
 n1 = 38
