@@ -1,6 +1,5 @@
 ;Eliza
 ;written in Blitz3D
-;by WolRon
 
 Graphics 640, 480, 32, 2
 Delay 2000
